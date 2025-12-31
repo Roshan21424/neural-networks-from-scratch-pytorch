@@ -44,5 +44,6 @@ More advanced topics will be added incrementally.
 Some notebooks are developed and stored using **Google Colab**.
 Where applicable, links to Google Drive folders or Colab notebooks are provided.
 
-**Tensor Fundamentals & Operations** : https://colab.research.google.com/drive/1ISMKK0wS9_iQnEC4-48T1A-gG6kwGn8v?usp=sharing
-
+- **Tensor Fundamentals & Operations** : https://colab.research.google.com/drive/1ISMKK0wS9_iQnEC4-48T1A-gG6kwGn8v?usp=sharing
+- **AutoGrad** : https://colab.research.google.com/drive/1ISMKK0wS9_iQnEC4-48T1A-gG6kwGn8v?usp=drive_link
+- **single perceptron training pipeline** :https://colab.research.google.com/drive/1vlbNGPERnQp2N0V1HLpjNYRLC-L6DwVn?usp=sharing
